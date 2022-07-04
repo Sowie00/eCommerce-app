@@ -1,3 +1,30 @@
+export const sliderItems = [
+  {
+    id: 1,
+    img: "https://images.unsplash.com/photo-1608666634759-4376010f863d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    title: "SUMMER SALE",
+    desc: "CHECK OUT OUR NEW ARRIVALS FOR THE SUMMER.",
+    bg: "f5fafd",
+  },
+  {
+    id: 2,
+    img: "https://images.unsplash.com/photo-1608666634759-4376010f863d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    title: "WINTER SALE",
+    desc: "CHECK OUT OUR NEW ARRIVALS FOR THE WINTER.",
+    bg: "fcf1ed",
+  },
+  {
+    id: 3,
+    img: "https://images.unsplash.com/photo-1608666634759-4376010f863d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    title: "POPULAR CHOICES",
+    desc: "BROWSE THROUGH OUR MOST POPULAR CHOICES",
+    bg: "fbf0f4",
+  },
+];
+
+
+
+
 export const categories = [
     {
       id: 1,
@@ -186,84 +213,6 @@ export const products = [
       items_left: 3,
       imageURL: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-620aeb37-1b28-44b0-9b14-5572f8cbc948/air-max-90-ltr-big-kids-shoe-hdNLQ5.jpg",
       slug: "nike-air-max-90-ltr",
-      featured : 0
-    },
-    {
-      id: 28,
-      name: "Stan Smith",
-      brand: "ADIDAS",
-      gender: "KIDS",
-      category: "CASUAL",
-      price: 55,
-      is_in_inventory: true,
-      items_left: 3,
-      imageURL: "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/d0720712d81e42b1b30fa80800826447_9366/Stan_Smith_Shoes_White_M20607_M20607_01_standard.jpg",
-      slug: "stan-smith",
-      featured : 0
-    },
-    {
-      id: 29,
-      name: "NMD_R1",
-      brand: "ADIDAS",
-      gender: "KIDS",
-      category: "RUNNING",
-      price: 120,
-      is_in_inventory: true,
-      items_left: 3,
-      imageURL: "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/99ca762cb9054caf82fbabc500fd146e_9366/NMD_R1_Shoes_Blue_FY9392_01_standard.jpg",
-      slug: "nmd_r1",
-      featured : 0
-    },
-    {
-      id: 30,
-      name: "NMD_R1 Flash Red",
-      brand: "ADIDAS",
-      gender: "WOMEN",
-      category: "CASUAL",
-      price: 140,
-      is_in_inventory: true,
-      items_left: 5,
-      imageURL: "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/90f85768e3894aeaab67aba0014a3379_9366/NMD_R1_Shoes_Red_FY9389_01_standard.jpg",
-      slug: "nmd_r1-flash-red",
-      featured : 0
-    },
-    {
-      id: 31,
-      name: "Superstar",
-      brand: "ADIDAS",
-      gender: "WOMEN",
-      category: "CASUAL",
-      price: 90,
-      is_in_inventory: true,
-      items_left: 3,
-      imageURL: "https://assets.adidas.com/images/h_320,f_auto,q_auto:sensitive,fl_lossy/12365dbc7c424288b7cdab4900dc7099_9366/Superstar_Shoes_White_FW3553_FW3553_01_standard.jpg",
-      slug: "superstar",
-      featured : 0
-    },
-    {
-      id: 32,
-      name: "Club C Revenge Mens",
-      brand: "Reebok",
-      gender: "MEN",
-      category: "CASUAL",
-      price: 70,
-      is_in_inventory: true,
-      items_left: 3,
-      imageURL: "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/7599294868804d78a1b1ab6f01718a5e_9366/Club_C_Revenge_Men's_Shoes_White_FV9877_01_standard.jpg",
-      slug: "club-c-revenge-mens",
-      featured : 0
-    },
-    {
-      id: 33,
-      name: "Club C Revenge Mens",
-      brand: "Reebok",
-      gender: "MEN",
-      category: "CASUAL",
-      price: 70,
-      is_in_inventory: true,
-      items_left: 3,
-      imageURL: "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/7599294868804d78a1b1ab6f01718a5e_9366/Club_C_Revenge_Men's_Shoes_White_FV9877_01_standard.jpg",
-      slug: "club-c-revenge-mens",
       featured : 0
     },
   ]
