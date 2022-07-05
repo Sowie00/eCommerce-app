@@ -30,31 +30,37 @@ export const categories = [
       id: 1,
       img: "https://images.unsplash.com/photo-1556004583-d2aaffbba592?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
       title: "Loafers & Slip-Ons",
+      cat: "loafons"
     },
     {
       id: 2,
       img: "https://images.unsplash.com/photo-1552346154-21d32810aba3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       title: "Sneakers",
+      cat: "sneakers"
     },
     {
       id: 3,
       img: "https://images.unsplash.com/photo-1600815659921-fde40a36adba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       title: "Casual & Dress Boots",
+      cat: "boots"
     },
     {
       id: 4,
       img: "https://images.unsplash.com/photo-1501851602203-f40cf2f11ba9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       title: "Sandals & Slides",
+      cat: "slides"
     },
     {
       id: 5,
       img: "https://www.rollingstone.com/wp-content/uploads/2021/05/AdobeStock_141756713.jpeg",
       title: "Dress Shoes",
+      cat: "dress"
     },
     {
       id: 6,
       img: "https://cdn.luxatic.com/wp-content/uploads/2021/11/Best-Casual-Shoes-For-Men.jpg",
       title: "Casual Shoes",
+      cat: "casual"
     },
   ];
 
